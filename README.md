@@ -1,4 +1,4 @@
-# Text Stats Analyzer
+# BookBot
 
 A simple Python script to analyze basic statistics of text documents. Created as part of a Boot.dev course project.
 
